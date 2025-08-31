@@ -1,0 +1,15 @@
+.text-small {
+  font-size: x-small;
+}
+
+.header a {
+  text-decoration: none;
+  color: var(--mui-palette-primary);
+}
+
+.auth {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
